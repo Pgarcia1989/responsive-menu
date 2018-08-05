@@ -95,7 +95,7 @@ body {
         transform: rotate(45deg);
     }
     .rotate-up {
-        margin-top: -12px;
+        margin-top: -5px;
         -ms-transform: rotate(-45deg);
         /* IE 9 */
         -webkit-transform: rotate(-45deg);
