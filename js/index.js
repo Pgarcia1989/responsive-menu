@@ -17,8 +17,8 @@ $(document).ready(function() {
     
     $("#responsive-menu-icon").click( function() {
       // if the menu height is not full, transform icon
-      var nav = $(".nav-wrapper");
-  var navHeight = nav.height();
+     var nav = $(".nav-wrapper");
+     var navHeight = nav.height();
       
       if (navHeight < 150) {
         $("#a").addClass("rotate-down");

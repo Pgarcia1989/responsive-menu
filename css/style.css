@@ -72,7 +72,7 @@ body {
     }
     .nav {
         width: 200px;
-        margin: 50px auto;
+        margin: 50px;
     }
     .mobile-wrapper {
         display: block;
@@ -95,7 +95,7 @@ body {
         transform: rotate(45deg);
     }
     .rotate-up {
-        margin-top: -5px;
+        margin-top: -12px;
         -ms-transform: rotate(-45deg);
         /* IE 9 */
         -webkit-transform: rotate(-45deg);
@@ -115,6 +115,6 @@ body {
         transition: all 1s ease;
     }
     /* animation class to keep icon in similar place after animations */
-    .menu-up {
+    /* .menu-up {
         padding-top: 15px;
-    }
+    } */
